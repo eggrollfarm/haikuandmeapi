@@ -1,0 +1,20 @@
+{
+  title: "Public Posts",
+  url: "https://api.haikuandme.com/public/2.json",
+  current_url: "https://api.haikuandme.com/public/index.json",
+  previous_archive_url: "https://api.haikuandme.com/public/1.json"
+  updated: "2003-11-24T12:00:00Z",
+  posts: [
+    {
+      url: "https://facebook/blah.html"
+      service: "Facebook",
+      author: {
+        url: "https://facebook/author.html",
+        name: "postypants"
+      },
+      updated: "2003-11-24T12:00:00Z",
+      text: "This is yet another haiku",
+      image_url: "https://facebook/blah.jpg"
+    }
+  ]
+}

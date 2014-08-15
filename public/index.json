@@ -1,0 +1,19 @@
+{
+  title: "Public Posts",
+  url: "https://api.haikuandme.com/public/index.json",
+  previous_archive_url: "https://api.haikuandme.com/public/2.json",
+  updated: "2003-12-13T18:30:02Z",
+  posts: [
+    {
+      url: "https://instagram/something.html"
+      service: "Instagram",
+      author: {
+        url: "https://instagram/author.html",
+        name: "@postypants"
+      },
+      updated: "2003-12-13T18:30:02Z",
+      text: "This is a haiku",
+      image_url: "https://instagram/something.jpg"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  title: "Public Posts",
+  url: "https://api.haikuandme.com/public/1.json",
+  current_url: "https://api.haikuandme.com/public/index.json",
+  next_archive_url: "https://api.haikuandme.com/public/2.json",
+  updated: "2003-11-23T12:00:00Z",
+  posts: [
+    {
+      url: "https://twitter/something-else.html"
+      service: "Twitter",
+      author: {
+        url: "https://twitter/author.html",
+        name: "@postypants"
+      },
+      updated: "2003-11-23T12:00:00Z",
+      text: "This is another haiku",
+      image_url: "https://twitter/something-else.jpg"
+    }
+  ]
+}
