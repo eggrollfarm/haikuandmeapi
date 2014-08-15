@@ -7,11 +7,11 @@
     {
       url: "https://instagram/something.html"
       service: "Instagram",
+      updated: "2003-12-13T18:30:02Z",
       author: {
         url: "https://instagram/author.html",
         name: "@postypants"
       },
-      updated: "2003-12-13T18:30:02Z",
       text: "This is a haiku",
       image_url: "https://instagram/something.jpg"
     }

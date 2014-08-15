@@ -8,11 +8,11 @@
     {
       url: "https://facebook/blah.html"
       service: "Facebook",
+      updated: "2003-11-24T12:00:00Z",
       author: {
         url: "https://facebook/author.html",
         name: "postypants"
       },
-      updated: "2003-11-24T12:00:00Z",
       text: "This is yet another haiku",
       image_url: "https://facebook/blah.jpg"
     }
