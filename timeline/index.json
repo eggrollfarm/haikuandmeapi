@@ -1,7 +1,7 @@
 {
-  title: "Public Posts",
-  url: "https://api.haikuandme.com/public/index.json",
-  previous_archive_url: "https://api.haikuandme.com/public/2.json",
+  title: "Timeline Subscription",
+  url: "https://api.haikuandme.com/timeline/index.json",
+  previous_archive_url: "https://api.haikuandme.com/timeline/2.json",
   updated: "2003-12-13T18:30:02Z",
   posts: [
     {
