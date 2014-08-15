@@ -5,12 +5,12 @@
   updated: "2003-12-13T18:30:02Z",
   posts: [
     {
-      url: "https://instagram/something.html"
+      url: "https://instagram.com/posts/something"
       service: "Instagram",
       updated: "2003-12-13T18:30:02Z",
       author: {
-        url: "https://instagram/author.html",
-        name: "@postypants"
+        url: "https://instagram.com/postypants",
+        name: "postypants"
       },
       text: "This is a haiku",
       image_url: "https://instagram/something.jpg"

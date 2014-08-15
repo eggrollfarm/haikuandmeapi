@@ -6,15 +6,15 @@
   updated: "2003-11-23T12:00:00Z",
   posts: [
     {
-      url: "https://twitter/something-else.html"
+      url: "https://twitter.com/posts/something-else"
       service: "Twitter",
       updated: "2003-11-23T12:00:00Z",
       author: {
-        url: "https://twitter/author.html",
+        url: "https://twitter.com/postypants",
         name: "@postypants"
       },
       text: "This is another haiku",
-      image_url: "https://twitter/something-else.jpg"
+      image_url: "https://twitter/images/something-else.jpg"
     }
   ]
 }

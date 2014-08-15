@@ -6,15 +6,15 @@
   updated: "2003-11-24T12:00:00Z",
   posts: [
     {
-      url: "https://facebook/blah.html"
+      url: "https://facebook/posts/blah"
       service: "Facebook",
       updated: "2003-11-24T12:00:00Z",
       author: {
-        url: "https://facebook/author.html",
+        url: "https://facebook.com/postypants",
         name: "postypants"
       },
       text: "This is yet another haiku",
-      image_url: "https://facebook/blah.jpg"
+      image_url: "https://facebook.com/images/blah.jpg"
     }
   ]
 }
