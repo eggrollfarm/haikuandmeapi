@@ -1,1 +1,21 @@
-3.json
+{
+  title: "Timeline",
+  url: "http://api.haikuandme.com/timeline/3.json",
+  first_url: "http://api.haikuandme.com/timeline/1.json",
+  last_url: "http://api.haikuandme.com/timeline/index.json",
+  next_url: "http://api.haikuandme.com/timeline/2.json",
+  updated: "2003-12-13T18:30:02Z",
+  posts: [
+    {
+      url: "https://instagram.com/posts/something"
+      service: "Instagram",
+      updated: "2003-12-13T18:30:02Z",
+      author: {
+        url: "https://instagram.com/postypants",
+        name: "postypants"
+      },
+      text: "This is a haiku",
+      image_url: "https://instagram/something.jpg"
+    }
+  ]
+}
