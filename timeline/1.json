@@ -1,8 +1,8 @@
 {
   title: "Timeline Archive",
-  url: "https://api.haikuandme.com/timeline/1.json",
-  current_url: "https://api.haikuandme.com/timeline/index.json",
-  next_archive_url: "https://api.haikuandme.com/timeline/2.json",
+  url: "http://api.haikuandme.com/timeline/1.json",
+  current_url: "http://api.haikuandme.com/timeline/index.json",
+  next_archive_url: "http://api.haikuandme.com/timeline/2.json",
   updated: "2003-11-23T12:00:00Z",
   posts: [
     {
