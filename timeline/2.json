@@ -1,10 +1,10 @@
 {
   title: "Timeline",
   url: "http://api.haikuandme.com/timeline/2.json",
-  first_url: "http://api.haikuandme.com/timeline/1.json",
-  last_url: "http://api.haikuandme.com/timeline/index.json",
-  previous_url: "http://api.haikuandme.com/timeline/1.json",
-  next_url: "http://api.haikuandme.com/timeline/3.json",
+  oldest_url: "http://api.haikuandme.com/timeline/1.json",
+  newest_url: "http://api.haikuandme.com/timeline/index.json",
+  older_url: "http://api.haikuandme.com/timeline/1.json",
+  newer_url: "http://api.haikuandme.com/timeline/3.json",
   updated: "2003-11-24T12:00:00Z",
   posts: [
     {
