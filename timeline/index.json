@@ -15,7 +15,13 @@
         name: "postypants"
       },
       text: "This is a haiku",
-      image_url: "https://instagram/something.jpg"
+      image {
+        url: "https://instagram/something.jpg",
+        size: {
+          width: 1024,
+          height: 768
+        }
+      }
     }
   ]
 }

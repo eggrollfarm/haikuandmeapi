@@ -15,7 +15,13 @@
         name: "@postypants"
       },
       text: "This is another haiku",
-      image_url: "https://twitter/images/something-else.jpg"
+      image {
+        url: "https://twitter/images/something-else.jpg",
+        size: {
+          width: 1024,
+          height: 768
+        }
+      }
     }
   ]
 }
