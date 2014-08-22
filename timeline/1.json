@@ -21,7 +21,7 @@
           }
         }
       },
-      text: "This is another haiku",
+      caption: "This is another haiku",
       image {
         url: "https://twitter/images/something-else.jpg",
         size: {
@@ -29,6 +29,31 @@
           height: 768
         }
       }
+    },
+    {
+      url: "https://tumblr.com/posts/tadah"
+      service: "Tumblr",
+      updated: "2003-11-23T11:00:00Z",
+      author: {
+        url: "https://tumblr.com/postypants",
+        name: "postypants",
+        avatar: {
+          url: "https://tumblr.com/postypants.png",
+          size: {
+            width: 400,
+            height: 400
+          }
+        }
+      },
+      caption: "This is another haiku",
+      image {
+        url: "https://tumblr.com/images/tadah.jpg",
+        size: {
+          width: 1024,
+          height: 768
+        }
+      }
     }
+
   ]
 }

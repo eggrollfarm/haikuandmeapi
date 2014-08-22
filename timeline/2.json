@@ -22,7 +22,7 @@
           }
         }
       },
-      text: "This is yet another haiku",
+      caption: "This is yet another haiku",
       image {
         url: "https://facebook.com/images/blah.jpg",
         size: {

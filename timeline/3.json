@@ -21,7 +21,7 @@
           }
         }
       },
-      text: "This is a haiku",
+      caption: "This is a haiku",
       image {
         url: "https://instagram/something.jpg",
         size: {
