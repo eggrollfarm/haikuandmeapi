@@ -12,7 +12,14 @@
       updated: "2003-11-23T12:00:00Z",
       author: {
         url: "https://twitter.com/postypants",
-        name: "@postypants"
+        name: "@postypants",
+        avatar: {
+          url: "https://twitter.com/postypants.png",
+          size: {
+            width: 400,
+            height: 400
+          }
+        }
       },
       text: "This is another haiku",
       image {

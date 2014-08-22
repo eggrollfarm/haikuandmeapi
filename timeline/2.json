@@ -13,7 +13,14 @@
       updated: "2003-11-24T12:00:00Z",
       author: {
         url: "https://facebook.com/postypants",
-        name: "postypants"
+        name: "postypants",
+        avatar: {
+          url: "https://facebook.com/postypants.jpg",
+          size: {
+            width: 400,
+            height: 400
+          }
+        }
       },
       text: "This is yet another haiku",
       image {
