@@ -22,7 +22,7 @@
         }
       },
       caption: "This is another haiku",
-      image {
+      image: {
         url: "https://twitter/images/something-else.jpg",
         size: {
           width: 1024,
@@ -46,7 +46,7 @@
         }
       },
       caption: "This is another haiku",
-      image {
+      image: {
         url: "https://tumblr.com/images/tadah.jpg",
         size: {
           width: 1024,

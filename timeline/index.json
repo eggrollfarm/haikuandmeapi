@@ -22,7 +22,7 @@
         }
       },
       caption: "This is a haiku",
-      image {
+      image: {
         url: "https://instagram/something.jpg",
         size: {
           width: 1024,

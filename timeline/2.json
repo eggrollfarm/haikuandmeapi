@@ -23,7 +23,7 @@
         }
       },
       caption: "This is yet another haiku",
-      image {
+      image: {
         url: "https://facebook.com/images/blah.jpg",
         size: {
           width: 1024,
