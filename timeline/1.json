@@ -5,7 +5,7 @@
   newest_url: "http://api.haikuandme.com/timeline/index.json",
   older_url: "http://api.haikuandme.com/timeline/2.json",
   updated: "2003-11-23T12:00:00Z",
-  posts: [
+  items: [
     {
       url: "https://twitter.com/posts/something-else"
       service: "Twitter",

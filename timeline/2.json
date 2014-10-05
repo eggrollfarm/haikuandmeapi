@@ -6,7 +6,7 @@
   older_url: "http://api.haikuandme.com/timeline/1.json",
   newer_url: "http://api.haikuandme.com/timeline/3.json",
   updated: "2003-11-24T12:00:00Z",
-  posts: [
+  items: [
     {
       url: "https://facebook/posts/blah"
       service: "Facebook",
